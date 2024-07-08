@@ -1,4 +1,5 @@
-NeuroTalent IQ Model
+# NeuroTalentIQ
+
 Cross-Validation Technique with Text Cleaning Overview
 
 This Python script demonstrates a unique cross-validation technique using stratified K-Fold to evaluate models trained on preprocessed text data. The preprocessing involves cleaning text data such as resumes by removing URLs, mentions, hashtags, punctuations, and non-ASCII characters.
